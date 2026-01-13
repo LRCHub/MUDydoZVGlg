@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Gazing Dialogue Play",
+  "base_artist": "リリヤ・クルトベイ (CV.安齋由香里)、連尺野初魅 (CV.葵井歌菜)",
+  "createdAt": "2026-01-13T15:41:07.010098Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gazing Dialogue Play",
+      "artist": "リリヤ・クルトベイ (CV.安齋由香里)、連尺野初魅 (CV.葵井歌菜)",
+      "has_synced": false,
+      "path": "select/pl_01_Gazing_Dialogue_Play_リリヤ・クルトベイ_(CV.安齋由香里)、連尺野初魅_(CV.葵井歌菜).txt"
+    }
+  ]
+}
